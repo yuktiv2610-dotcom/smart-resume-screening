@@ -1,0 +1,7 @@
+rank,name,filename,email,phone,final_score,years_experience,education,matched_skills,missing_skills
+1,Jane Doe,jane_doe.txt,jane.doe@email.com,(555) 123-4567,70.76,5.0,bachelor,machine learning; pandas; python; sql,
+2,Alice Chen,alice_chen.txt,alice.chen@email.com,415-555-0148,69.84,5.0,bachelor,machine learning; pandas; python; sql,
+3,Ben Torres,ben_torres.docx,ben.torres@email.com,312-555-0199,56.33,4.0,bachelor,machine learning; python; sql,pandas
+4,Marcus Lee,marcus_lee.txt,marcus.lee@email.com,555-987-6543,54.14,6.0,bachelor,machine learning; python; sql,pandas
+5,Priya Shah,priya_shah.txt,priya.shah@email.com,555-222-3333,21.1,4.0,diploma,,machine learning; pandas; python; sql
+6,Carla Nguyen,carla_nguyen.pdf,carla.nguyen@email.com,702-555-0122,20.32,3.0,diploma,,machine learning; pandas; python; sql

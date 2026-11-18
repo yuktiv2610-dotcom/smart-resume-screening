@@ -1,0 +1,18 @@
+REQUIRED_SKILLS: python, sql, machine learning, pandas
+MIN_YEARS_EXPERIENCE: 3
+MIN_EDUCATION: bachelor
+---
+We are hiring a Data Scientist to join our analytics team.
+
+Responsibilities:
+- Build and maintain machine learning models for demand forecasting
+- Write efficient SQL queries against large datasets
+- Analyze data using python and pandas to generate business insights
+- Collaborate with engineering and product teams to deploy models to production
+- Communicate findings clearly to non-technical stakeholders
+
+Requirements:
+- Strong python and sql skills
+- Experience with machine learning and data analysis
+- Bachelor's degree in Computer Science, Statistics, or a related field
+- 3+ years of relevant work experience
